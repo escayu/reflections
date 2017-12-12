@@ -20,7 +20,10 @@ I believe when there is a change of functionality or different versions are need
 for different platforms or O.S. For example for IOS, Android, windows ...
 
 How do the diagrams help you visualize the branch structure?
-
+	It makes it easy to track the new versions in different branches, 
+	to have a better traceability of the changes and to prevent some 
+	commits from being practically inaccessible.
+	
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
