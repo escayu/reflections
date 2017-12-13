@@ -31,3 +31,6 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+	I think that automatic fusion is fast and efficient. 
+	On the other hand, the fusion by hand facilitates a management of 
+	the merger mainly when there are conflicts
